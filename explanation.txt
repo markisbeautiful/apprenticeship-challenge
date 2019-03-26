@@ -1,0 +1,2 @@
+I started by writing the request to the web server. After that I analysed the output and thought about a possibility to store the data. I stored them in nested dictionaries. The first element contains the meta data. The second contains another dictionary in which every single day contains a dictionary with the day's data. Then I wrote the selection of the data and its output.
+Last I added the user input so that the date can be changed with each execution.

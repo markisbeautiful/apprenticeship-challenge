@@ -1,0 +1,33 @@
+How to run this script:
+
+1. Install Python 3.X (for example: https://realpython.com/installing-python/)
+	
+	Windows:
+
+		Be sure to check the box that says Add Python 3.x to PATH.
+		
+
+		Install requests:
+
+		1. Run command prompt (Press Win + R keys, type 'cmd' and press Enter)
+
+		2. Type 'python -m pip install requests' and press enter
+
+2. Run command prompt(Windows) / terminal(Mac OSX, Linux) 
+
+	Windows: Press Win + R keys, type 'cmd' and press Enter
+
+	Mac OSX: Go to Applications -> Utilities -> Terminal
+
+	Linux: Navigate to terminal
+
+3. Navigate to the folder containing the file 'stock_quotes.py' by typing 'cd [PATH_TO_FOLDER]'
+
+4. Run script by typing 
+
+	There are two ways to run this script:
+
+		1. Type 'python stock_quotes.py', press [Enter] and follow the instructions.
+			
+
+		2. Type 'python stock_quotes.py --date [YYYY-MM-DD]' and press [Enter]
