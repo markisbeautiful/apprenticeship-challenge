@@ -39,7 +39,7 @@ def do_request():
     
 response_data = do_request()
 
-# store and analyze relevant data
+# store and analyse relevant data
 
 symbol = response_data["Meta Data"]["2. Symbol"]
 data = response_data["Time Series (Daily)"]
