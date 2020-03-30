@@ -30,4 +30,4 @@ Running the script (internet connection required!)
 		a. Type 'python stockquotes.py', press Enter and follow the instructions.
 			
 
-		b. Type 'python stockquotes.py --date [YYYY-MM-DD]' and press Enter
+		b. Type 'python stockquotes.py --date [YYYY-MM-DD]' and press Enter.
